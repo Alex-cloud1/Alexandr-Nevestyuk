@@ -14,7 +14,7 @@
 
 - **Telegram:** https://t.me/alnevestyuk
 - **Email:** alnevestyuk@yandex.ru
-- **Портфолио:** 
+- **Портфолио:** https://github.com/Alex-cloud1/Yandex_projects
 
 **Статус занятости:** Открыт для предложений! 🚀
 
